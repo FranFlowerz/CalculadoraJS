@@ -1,0 +1,1 @@
+Olá, me chamo Franciele e este projeto serve para iniciar a trabalhar com Javascript, além de treinar um pouco mais o HTML e CSS. Irei fazer uma calculadora seguindo o exemplo do Felipe Rocha • dicasparadevs (https://www.youtube.com/c/dicasparadevs)
